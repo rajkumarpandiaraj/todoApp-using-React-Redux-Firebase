@@ -1,0 +1,14 @@
+.list-hover:hover{
+    cursor: pointer;
+    background-color: #f4f4f4;
+}
+#navbar-nav, .main-menu{
+    display: flex !important;
+    color: #fff;
+    list-style: none;
+}
+.nav-item:hover ,.main-menu:hover{
+    cursor: pointer;
+    color: #fff;
+    text-decoration: none;
+}
